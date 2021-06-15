@@ -1,9 +1,3 @@
 # nakayamahiroto.github.io
 
-新しいリポジトリ
-
-テスト
-
-テスト２
-
-少しエラー
+仕切り直し
